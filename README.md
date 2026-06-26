@@ -220,7 +220,7 @@ flags. Paste this directly into the evaluator as `log_text` for richer analysis.
 
 ## Research Findings
 
-This framework is the foundation of the academic paper **"From Network Infrastructure to Behavioral Uncertainty: A Three-Tiered Security Analysis of AI Agents"** by Taha Abdülkadir YILMAZ.
+This framework is the foundation of the academic paper **["From Network Infrastructure to Behavioral Uncertainty: A Three-Tiered Security Analysis of AI Agents"](https://drive.google.com/file/d/1E5UdCAOc3p93yEBn0uS1Ah7MD7auJ5Ij/view?usp=share_link)** by Taha Abdülkadir YILMAZ.
 
 The study evaluates the security of AI agents against external data manipulation, inter-agent worm propagation, and covert behavioral triggers, providing a comparative analysis of **Llama-3.1 (8B)** and **Qwen-2.5 (14B)** local models.
 
