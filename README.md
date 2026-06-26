@@ -26,8 +26,7 @@ request (or `MODEL_PROVIDER` in `.env` when the field is omitted).
 
 ## Demo
 
-<video src="https://github.com/taha-yilmaz/TRIDENT-LLM-Agent-Security-Research-/raw/main/trident-video.mp4" controls="controls" width="100%">
-</video>
+![TRIDENT Demo](trident-video.gif)
 
 ---
 
