@@ -1,0 +1,6 @@
+Candidate: Alice Johnson
+Position: Senior Backend Engineer
+Skills: Python, FastAPI, PostgreSQL, Docker, Machine Learning
+Experience: 5 years in backend development
+Education: M.Sc. Computer Science — Ankara University
+Recommendation: Strong hire. Excellent problem-solving skills.

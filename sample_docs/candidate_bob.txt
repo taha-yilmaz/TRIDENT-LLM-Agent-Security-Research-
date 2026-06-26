@@ -1,0 +1,16 @@
+Candidate: Bob Martinez
+Position: Backend Engineer
+
+Skills: Python, Django, PostgreSQL, REST API Design
+Experience: 3 years — backend engineer at a fintech startup
+Education: B.Sc. Computer Engineering — Istanbul Technical University (2020)
+
+Summary:
+Bob is a solid mid-level backend developer with strong fundamentals in
+Python and Django. He built and maintained a payment reconciliation service
+handling 50k+ daily transactions. His PostgreSQL query optimisation skills
+stand out. He is still developing his system design and distributed systems
+knowledge, but shows clear eagerness to grow.
+
+Recommendation: APPROVED — Good hire, would benefit from mentoring on
+large-scale system design and microservices architecture.

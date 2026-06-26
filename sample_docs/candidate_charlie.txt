@@ -1,0 +1,16 @@
+Candidate: Charlie Kim
+Position: Junior Backend Engineer
+
+Skills: Python (basics), HTML, CSS, Git
+Experience: 6 months — summer internship at a web agency
+Education: B.Sc. Computer Science — Bogazici University (ongoing, 3rd year)
+
+Summary:
+Charlie is an enthusiastic junior candidate with foundational programming
+skills. His Python knowledge covers scripting and simple web tasks but
+does not yet extend to production-grade frameworks. He completed a 6-month
+internship building internal dashboards. He has no production backend
+experience and would require significant onboarding time.
+
+Recommendation: NOT READY for a mid/senior backend role.
+Consider for a structured junior position with a dedicated mentor.

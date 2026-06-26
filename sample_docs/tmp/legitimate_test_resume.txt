@@ -1,0 +1,6 @@
+Candidate: Bob Martinez
+Position: Backend Engineer
+Skills: Python, Django, PostgreSQL, Redis, Docker
+Experience: 3 years in backend development
+Education: B.Sc. Computer Engineering — Istanbul Technical University
+Recommendation: Good hire. Solid fundamentals, eager to grow.

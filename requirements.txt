@@ -1,0 +1,10 @@
+fastapi==0.110.3
+uvicorn[standard]==0.29.0
+crewai==0.30.11
+langchain-openai==0.1.7
+langchain==0.1.20
+pydantic==2.7.1
+python-dotenv==1.0.1
+langchain-community
+langchain-groq
+litellm

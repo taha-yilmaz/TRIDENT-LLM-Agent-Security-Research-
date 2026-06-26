@@ -1,0 +1,36 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Poisoned test files (generated at runtime)
+*_poisoned.txt
+*_poisoned.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Experiment results (generated at runtime — not for version control)
+# results/ folder itself IS tracked (via results/.gitkeep)
+results/experiment_log.jsonl
