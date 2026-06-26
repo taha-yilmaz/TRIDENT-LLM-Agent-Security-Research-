@@ -26,9 +26,7 @@ request (or `MODEL_PROVIDER` in `.env` when the field is omitted).
 
 ## Demo
 
-<video src="trident-video.mp4" controls="controls" muted="muted" playsinline="playsinline" width="100%">
-  Your browser does not support the video tag.
-</video>
+https://github.com/taha-yilmaz/TRIDENT-LLM-Agent-Security-Research-/raw/main/trident-video.mp4
 
 ---
 
